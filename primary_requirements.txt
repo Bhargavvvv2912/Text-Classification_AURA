@@ -1,0 +1,6 @@
+torch
+numpy
+tensorboard>
+tqdm
+nltk
+pandas
